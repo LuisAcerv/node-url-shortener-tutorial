@@ -1,0 +1,10 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Shorten URLs",
+  "main": "index.js",
+  "repository": "https://github.com/LuisAcerv/node-url-shortener-tutorial",
+  "author": "LuisAcerv",
+  "license": "MIT",
+  "private": true
+}
